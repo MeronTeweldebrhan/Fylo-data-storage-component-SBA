@@ -12,7 +12,11 @@ The goal was to create a responsive storage dashboard for Fylo, featuring a logo
 
 ### Links
 
-- Solution URL: [Add solution URL here](sslo)
+* I've just completed a front-end coding challenge from @frontendmentor! 🎉
+* Any suggestions on how I can improve are welcome!
+
+- Solution URL:[Add solution URL here](https://www.frontendmentor.io/solutions/fylo-data-storage-component-sba-html-bootstrapcss-0Gr4IcQDaR
+)
 - Live Site URL: [Add live site URL here](https://mtfylostoragesba.netlify.app)
 
 ## My process
