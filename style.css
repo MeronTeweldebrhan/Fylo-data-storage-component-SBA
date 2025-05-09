@@ -10,8 +10,44 @@
    .card-custom {
     background: #1e2a47;
 }
-
-
-
+ .rounded-6 {
+    border-top-right-radius: 7rem; /* Adjust the value as needed */
+  }
+.icon-placeholder {
+    width: 31px;
+    height: 30px;
+    padding: 7px;
+    background: #0a0a23;
+    border-radius: 5px;
+    display: inline-block;
+    margin-left: 10px;
+   }
+.progress-bar {
+   background-color: #e958a8;
+    border-radius: 5px;
+    
+ }
+.remaining {
+            position: absolute;
+            top: -60px;
+            right: 40px;
+            background: white;
+            color: black;
+            padding: 15px;
+            border-radius: 15px;
+            display: flex;
+            align-items: center;
+           
+            
+        }
+        .remaining::after {
+            content: '';
+            position: absolute;
+            bottom: -10px;
+            right: 20px;
+            border-left: 25px solid transparent;
+            /* border-right: 0px solid transparent; */
+            border-top: 10px solid white;
+        }
 .attribution { font-size: 11px; text-align: center; }
     .attribution a { color: hsl(228, 45%, 44%); }
